@@ -1,0 +1,147 @@
+* {
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    height: 20px;
+    padding: 8px 5px 3px 10px;
+    background: rgba(252,205,77,1);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fccd4d', endColorstr='#ffd119', GradientType=0 );
+    font-size: 13px;
+}
+
+#wrapper {
+    width: 970px;
+    margin: 0px auto;
+    background-image: url("http://bootcamp.tylerdoescode.com/html_css/ppc/background.jpg");
+}
+
+#header {
+    width: 970px;
+    height: 120px;
+    display: inline-block;
+    background: rgba(237,237,237,1);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ededed', endColorstr='#ffffff', GradientType=0 );
+}
+
+#logo img {
+    height: 60px;
+    padding: 0 0 0 0px;
+    display: inline-block;
+}
+
+#logo h1 {
+    display: inline-block;
+    font-size: 16px;
+    margin: 25px 0px 15px 310px;
+}
+
+#nav_bar {
+    height: 60px;
+    background: #ccc;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefefe', endColorstr='#e2e2e2', GradientType=0 );
+}
+
+#nav_bar a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 10px;
+    color: #585858;
+    padding: 8px 20px 9px 20px;
+    border-left: 1px solid grey;
+    border-right: 1px solid #ccc;
+}
+
+#nav_bar ul {
+    padding: 20px 15px 0px 35px;
+    border-top: 1px solid grey;
+}
+
+#nav_bar li {
+    display: inline;
+}
+
+#main_content {
+    width: 900px;
+    height: auto;
+    padding: 20px 35px 20px 35px;
+    display: inline-block;
+    background-color: #000;
+}
+
+#upper_main {
+    width: 900px;
+    height: 290px;
+}
+
+#photo {
+    width: 350px;
+    height: 240px;
+    padding: 5px;
+    background-color: white;
+    display: inline-block;
+}
+
+#about {
+    width: 521px;
+    height: 250px;
+    margin: 0px 0px 0px 15px;
+    background-color: #282828;
+    display: inline-block;
+}
+
+#about h3 {
+    color: white;
+    font-size: 14px;
+    padding: 10px;
+}
+
+#about p {
+    color: white;
+    font-size: 12px;
+    padding: 10px;
+}
+
+#small_logo * {
+    display: inline-block;
+    margin: 15px 0 0 0;
+    color: #FFD119;
+}
+
+#small_logo p {
+    font-size: 10px;
+}
+
+#lower_main p {
+    font-size: 11px;
+    height: 60px;
+    width: 190px;
+    padding: 10px 10px 10px 10px;
+}
+
+#lower_main {
+    width: 900px;
+    height: auto;
+    display: inline-block;
+}
+
+.align {
+    margin: 0 16px 0 0;
+}
+
+#lower_main div {
+    width: 210px;
+    height: 250px;
+    display: inline-block;
+    background: rgba(255,255,255,1);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f5f3e2', GradientType=0 );
+}
+
+img.read_more {
+    height: 24px;
+    width: 90px;
+    padding: 0 0 0 105px;
+    display: inline-block;
+}
